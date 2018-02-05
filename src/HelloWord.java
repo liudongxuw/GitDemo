@@ -3,7 +3,7 @@
  */
 public class HelloWord {
     public void say(){
-        System.out.print("ÄãºÃ");
+        System.out.print("ÄãºÃÑ½");
 
     }
 }
